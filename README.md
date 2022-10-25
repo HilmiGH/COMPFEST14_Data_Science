@@ -1,2 +1,2 @@
 # Compfest-AI-Test1
-A test i made using ARIMA and SARIMAX model for Compfest 14 Data science academy.
+These are a series of tests i did to enter the qualification stage of COMPFEST 14 Data Science Academy
